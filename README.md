@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tambowoneyi 👋
 
-<!--
-**Tambeezy1890/Tambeezy1890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and aspiring full-stack developer.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- TailwindCSS
+
+## Featured Projects
+
+### Finance Tracker V2
+Full-stack finance management application.
+
+### FlowBoard
+Trello-inspired task management application.
+
+## Currently Learning
+
+- Backend Architecture
+- Database Design
+- System Design
+- Cloud Deployment
